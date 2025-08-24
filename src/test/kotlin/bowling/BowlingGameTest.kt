@@ -1,0 +1,4 @@
+package bowling
+
+class BowlingGameTest {
+}
